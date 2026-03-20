@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "x122418",
-		"description": "xxx 的个人博客，记录关于LLM学习，探索的过程，。",
+		"description": "xxx 的个人博客，记录关于LLM学习，探索的过程。",
 		"username": "XXX"
 	},
 	"theme": {
@@ -47,13 +47,6 @@
 			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
 		},
 		{
 			"id": "email",
