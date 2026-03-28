@@ -1,5 +1,14 @@
 [
   {
+    "slug": "Hanoi-Tower",
+    "title": "leetcode ：汉诺塔",
+    "tags": [],
+    "date": "2026-03-28T20:28",
+    "summary": "",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "computer-hardware-basics",
     "title": "计算机底层知识学习",
     "tags": [
