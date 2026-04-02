@@ -12,7 +12,7 @@ $$
 \end{align*}
 $$
 
-*Two's Complement* 与 *Unsigned binary* 的不同就在于最高位的权重正负号。四位可以表示-8~+7
+*Two's Complement* 与 *Unsigned binary* 的不同就在于最高位的权重正负号。前者可以表示-8~+7，而后者只能表示0~16，也就是两者模相同$2^4$。
 
 ### 原码（Sign-Magnitude)与反码（One's Complement）
 
