@@ -22,4 +22,4 @@ nohup /path/to/python build_kb_from_dir.py \
 
 - \ 代表换行符号
 - --pdf_dir /tmp/standard_mix_batch50    前者表示参数， 后者表示参数值
-- > run.log 2>&1 表示把标准输出和错误都保存到 run.log 文件中，方便查看进度。
+- \> run.log 2>&1 表示把标准输出和错误都保存到 run.log 文件中，方便查看进度。
