@@ -1,5 +1,16 @@
 [
   {
+    "slug": "logic-gates",
+    "title": "计算机底层知识学习 - logic gates",
+    "tags": [
+      "cs"
+    ],
+    "date": "2026-04-11T21:45",
+    "summary": "继续学习Milen Patel的分享视频...",
+    "hidden": false,
+    "category": "学习与总结"
+  },
+  {
     "slug": "background-cli",
     "title": "后台进程",
     "tags": [],
