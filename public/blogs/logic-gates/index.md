@@ -33,7 +33,7 @@
 | 0 | 1      |
 | 1 | 0      |
 
-### NAND gate  *Universal Gate*
+### NAND gate  (Universal Gate)
 
 | A | B | Y |
 |---|---|---|
