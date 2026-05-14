@@ -1,5 +1,14 @@
 [
   {
+    "slug": "pytorch-minimind",
+    "title": "pytorch常用方法总结",
+    "tags": [],
+    "date": "2026-05-14T12:50",
+    "summary": "总结一下最近写minimind碰到的常用torch函数",
+    "hidden": false,
+    "category": "学习与总结"
+  },
+  {
     "slug": "mini-mind",
     "title": "Minimind 架构 复习与回顾",
     "tags": [
